@@ -18,3 +18,4 @@ Random forest regressor performed best. Note that we trained the model on a slic
   - Extracted the month and year fromt eh date column, for calculation of "decades". 
 
 - Observations: For each city: We calculated the max values for each decade. Then we took the difference of max and min over the decades. We observed that some data points are too high. They are outliar. We removed thme to calculate the highest variability in AverageTemperature. 
+ - #### Task time: ~ 3hours
