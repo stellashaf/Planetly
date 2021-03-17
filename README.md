@@ -1,5 +1,5 @@
 # Planetly
-# Prediction of the temperature of the cities  
+## Prediction of the temperature of the cities  
 
 - Given data: average monthly temperature of different cities over the world. The longitute and latiture of cities is also given. 
 
